@@ -17,8 +17,6 @@ Hints:
 
 The final result should look like the following image:
 
-![Exercise 2](https://github.com/RRua/tds-week5-exercise/blob/main/ex2.jpeg)
-
 
 ## Exercise 3: Using flexbox to make the list responsive
 In this exercise, you will use flexbox to make the list responsive on different screen sizes.

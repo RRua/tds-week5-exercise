@@ -5,7 +5,7 @@ In this exercise, you will create a webpage using semantic HTML. The webpage sho
 2. Observe the semantic HTML elements to structure the webpage: nav for the navbar, main for the content, and aside for the sidebar.
 3. Complete the HTML and CSS code in order to replicate the following image:
 
-
+![Exercise 1](https://github.com/RRua/tds-week5-exercise/blob/main/ex1.jpeg)
 
 
 ## Exercise 2: Displaying a list of items in a list format
@@ -17,6 +17,8 @@ Hints:
 
 The final result should look like the following image:
 
+![Exercise 2](https://github.com/RRua/tds-week5-exercise/blob/main/ex2.jpeg)
+
 
 ## Exercise 3: Using flexbox to make the list responsive
 In this exercise, you will use flexbox to make the list responsive on different screen sizes.
@@ -24,6 +26,9 @@ Hints:
     - Use CSS styles to set display: flex on the ul element.
     - Use flex-wrap to control how the items wrap when the screen size changes.
 
+The final result should look like the following image:
+
+![Exercise 3](https://github.com/RRua/tds-week5-exercise/blob/main/ex3.jpeg)
 
 ## Exercise 4: Using CSS Grid to make the list responsive
 In this exercise, you will refactor the webpage in order to replace flexbox with CSS Grid to make the list responsive on different screen sizes.
